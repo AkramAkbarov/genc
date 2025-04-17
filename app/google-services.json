@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "759268526522",
+    "firebase_url": "https://genc-8ce85-default-rtdb.firebaseio.com",
+    "project_id": "genc-8ce85",
+    "storage_bucket": "genc-8ce85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759268526522:android:18d799c418a6d231357583",
+        "android_client_info": {
+          "package_name": "com.akbaria.genc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3QnooECUVjLiL_hPtPmhM0IFWse2N6SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
